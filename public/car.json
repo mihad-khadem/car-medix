@@ -1,0 +1,182 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Ferrari",
+      "brandImg": "https://i.imgur.com/TMK4W11.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lamborghini",
+      "brandImg": "https://i.imgur.com/JLiUFot.jpg"
+    },
+    {
+      "id": 3,
+      "name": "McLaren",
+      "brandImg": "https://i.imgur.com/EesJQc5.png"
+    },
+    {
+      "id": 4,
+      "name": "Porsche",
+      "brandImg": "https://i.imgur.com/qhlwiNz.png"
+    },
+    {
+      "id": 5,
+      "name": "BMW",
+      "brandImg": "https://i.imgur.com/F0ckbjx.png"
+    },
+    {
+      "id": 6,
+      "name": "Audi",
+      "brandImg": "https://i.imgur.com/lU9Jcu1.png"
+    }
+  ],
+  "products": [
+    {
+      "carId": 1,
+      "name": "Ferrari 488 GTB",
+      "brandId": 1,
+      "brandName": "Ferrari",
+      "type": "Supercar",
+      "price": 300000,
+      "rating": 4.9,
+      "image": "https://i.imgur.com/mIWvcVf.jpg",
+      "details": "The Ferrari 488 GTB is a high-performance supercar with a V8 engine and stunning design."
+    },
+    {
+      "carId": 2,
+      "name": "Ferrari F8 Tributo",
+      "brandId": 1,
+      "brandName": "Ferrari",
+      "type": "Sports Car",
+      "price": 350000,
+      "rating": 4.8,
+      "image": "https://i.imgur.com/gD4Av6U.jpg",
+      "details": "The Ferrari F8 Tributo is a powerful mid-engine sports car with incredible speed and handling."
+    },
+    {
+      "carId": 3,
+      "name": "Lamborghini Aventador",
+      "brandId": 2,
+      "brandName": "Lamborghini",
+      "type": "Supercar",
+      "price": 400000,
+      "rating": 4.9,
+      "image": "https://i.imgur.com/ZUNuw4n.jpg",
+      "details": "The Lamborghini Aventador is an iconic and extreme supercar with a roaring V12 engine."
+    },
+    {
+      "carId": 4,
+      "name": "Lamborghini Huracán",
+      "brandId": 2,
+      "brandName": "Lamborghini",
+      "type": "Supercar",
+      "price": 300000,
+      "rating": 4.7,
+      "image": "https://i.imgur.com/HVGLvaf.jpg",
+      "details": "The Lamborghini Huracán is a sleek and powerful supercar known for its impressive performance."
+    },
+    {
+      "carId": 5,
+      "name": "McLaren 720S",
+      "brandId": 3,
+      "brandName": "McLaren",
+      "type": "Supercar",
+      "price": 320000,
+      "rating": 4.7,
+      "image": "https://i.imgur.com/Dm2Efn3.jpg",
+      "details": "The McLaren 720S is a British supercar with cutting-edge technology and remarkable performance."
+    },
+    {
+      "carId": 6,
+      "name": "McLaren P1",
+      "brandId": 3,
+      "brandName": "McLaren",
+      "type": "Hypercar",
+      "price": 450000,
+      "rating": 4.9,
+      "image": "https://i.imgur.com/L8LbejB.jpg",
+      "details": "The McLaren P1 is a limited-production hybrid hypercar with extraordinary speed and design."
+    },
+    {
+      "carId": 7,
+      "name": "Porsche 911",
+      "brandId": 4,
+      "brandName": "Porsche",
+      "type": "Sports Car",
+      "price": 120000,
+      "rating": 4.6,
+      "image": "https://i.imgur.com/Qgn78XQ.jpg",
+      "details": "The Porsche 911 is a classic sports car known for its timeless design and thrilling performance."
+    },
+    {
+      "carId": 8,
+      "name": "Porsche Cayenne",
+      "brandId": 4,
+      "brandName": "Porsche",
+      "type": "SUV",
+      "price": 90000,
+      "rating": 4.5,
+      "image": "https://i.imgur.com/EeQmWMh.jpg",
+      "details": "The Porsche Cayenne is a luxury SUV with excellent handling and a comfortable interior."
+    },
+    {
+      "carId": 9,
+      "name": "BMW M5",
+      "brandId": 5,
+      "brandName": "BMW",
+      "type": "Sedan",
+      "price": 100000,
+      "rating": 4.6,
+      "image": "https://i.imgur.com/4Z3iBWw.png",
+      "details": "The BMW M5 is a high-performance sedan with a powerful engine and elegant design."
+    },
+    {
+      "carId": 10,
+      "name": "BMW X5",
+      "brandId": 5,
+      "brandName": "BMW",
+      "type": "SUV",
+      "price": 80000,
+      "rating": 4.4,
+      "image": "https://i.imgur.com/xShDVJM.png",
+      "details": "The BMW X5 is a luxury SUV that combines style and performance with advanced technology."
+    },
+    {
+      "carId": 11,
+      "name": "Audi R8",
+      "brandId": 6,
+      "brandName": "Audi",
+      "type": "Sports Car",
+      "price": 220000,
+      "rating": 4.7,
+      "image": "https://i.imgur.com/Ho2ouUm.png",
+      "details": "The Audi R8 is a high-end sports car with impressive power and a sleek, modern design."
+    },
+    {
+      "carId": 12,
+      "name": "Audi Q7",
+      "brandId": 6,
+      "brandName": "Audi",
+      "type": "SUV",
+      "price": 75000,
+      "rating": 4.5,
+      "image": "https://i.imgur.com/SgNwlnt.png",
+      "details": "The Audi Q7 is a premium SUV with a spacious interior and advanced technology."
+    }
+  ],
+  "advertisements": [
+    {
+      "id": 1,
+      "image": "https://example.com/ad1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/ad2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/ad3.jpg"
+    }
+  ]
+}
